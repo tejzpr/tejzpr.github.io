@@ -1,0 +1,3 @@
+[submodule "solar-system"]
+	path = solar-system
+	url = https://github.com/tejzpr/solar-system
